@@ -22,3 +22,6 @@ database/*.db
 # OS tomonidan yaratilgan fayllar
 .DS_Store
 Thumbs.db
+
+# PDF va boshqa generatsiya qilingan fayllar
+data/*.pdf
