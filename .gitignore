@@ -1,0 +1,24 @@
+# Python tomonidan yaratilgan kesh va vaqtinchalik fayllar
+__pycache__/
+*.pyc
+*.pyo
+
+# Virtual muhit (venv)
+venv/
+
+# Ma'lumotlar bazasi fayllari
+database/*.db
+
+# Muhit o'zgaruvchilari fayli
+.env
+
+# IDE va tahrirlovchi tomonidan yaratilgan fayllar
+.vscode/
+.idea/
+
+# Log fayllar
+*.log
+
+# OS tomonidan yaratilgan fayllar
+.DS_Store
+Thumbs.db
